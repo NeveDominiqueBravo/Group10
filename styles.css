@@ -1,0 +1,86 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 body \{\
+    font-family: 'Orbitron', sans-serif;\
+    background-color: #0a0a0a;\
+    color: #e0e0e0;\
+    margin: 0;\
+    padding: 0;\
+    text-align: center;\
+\}\
+\
+h1 \{\
+    font-size: 32px;\
+    color: #ccffff;\
+    text-shadow: 0 0 15px #ccffff, 0 0 30px #99ccff;\
+    margin-bottom: 10px;\
+    text-transform: uppercase;\
+    letter-spacing: 2px;\
+\}\
+\
+p \{\
+    font-size: 20px;\
+    line-height: 1.8;\
+    color: #ffffcc;\
+    text-shadow: 0 0 10px #ffffcc, 0 0 20px #ffeb99;\
+\}\
+\
+div \{\
+    background: rgba(255, 255, 255, 0.05);\
+    border-radius: 15px;\
+    padding: 25px;\
+    margin: 20px auto;\
+    width: 80%;\
+    max-width: 900px;\
+    box-shadow: 0 0 25px rgba(204, 255, 255, 0.5);\
+    \
+\}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0   .glowing-image \{\
+    width: 300px; \
+    height: 300px;\
+    border-radius: 50%; \
+    box-shadow: 0 0 15px rgba(204, 255, 255, 0.7), 0 0 25px rgba(99, 204, 255, 0.9); /* Glowing effect */\
+    transition: box-shadow 0.3s ease; \
+    margin-top: 20px; \
+\}\
+\
+.glowing-image:hover \{\
+    box-shadow: 0 0 30px rgba(204, 255, 255, 1), 0 0 50px rgba(99, 204, 255, 1); /* Enhance glow on hover */\
+\}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+ul \{\
+    list-style-type: none;\
+    padding: 0;\
+\}\
+\
+li \{\
+    background: rgba(255, 255, 255, 0.1);\
+    padding: 12px;\
+    margin: 8px 0;\
+    border-radius: 10px;\
+    font-size: 18px;\
+    color: #ccffff;\
+    text-shadow: 0 0 12px #ccffff, 0 0 25px #99ccff;\
+\}\
+\
+footer \{\
+    background: #111;\
+    padding: 20px;\
+    margin-top: 40px;\
+    border-top: 3px solid #ccffff;\
+    box-shadow: 0 0 20px #ccffff;\
+\}\
+\
+footer p \{\
+    margin: 8px 0;\
+    font-size: 18px;\
+    color: #ffffcc;\
+    text-shadow: 0 0 12px #ffffcc, 0 0 25px #ffeb99;\
+\}}
